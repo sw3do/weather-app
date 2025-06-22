@@ -318,7 +318,7 @@ If you have any questions or need help:
 
 <div align="center">
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Sw3do**
 
 ⭐ **Star this repo if you like it!** ⭐
 
